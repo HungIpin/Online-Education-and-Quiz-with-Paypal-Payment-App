@@ -3,7 +3,7 @@
 ### Các công nghệ chính:
  <img src="https://img.stackshare.io/service/11331/asp.net-core.png"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPw7e1oXI5SnkykpcQkyJR2ymbSMs0XS4dDuZojsvzV0rNP6k6nLkrLpMD0PMXVltIMxk&usqp=CAU"><img src="https://blog.sqlauthority.com/wp-content/uploads/2008/12/ssms.png">
 ### Tích hợp bên thứ 3:
-<img src="https://cdn.tgdd.vn/Files/2019/07/16/1179841/636629240000820088-760x367.jpg">
+<img src="https://blog.sqlauthority.com/wp-content/uploads/2008/12/ssms.png">
 ### Môi trường cần cài đặt 
  - [Npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
  - [NodeJS](https://nodejs.org/en/)
