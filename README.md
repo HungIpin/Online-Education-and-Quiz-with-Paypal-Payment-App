@@ -1,5 +1,7 @@
 ## Đồ án cuối kỳ CyberSoft
 # Đề tài: Xây dựng ứng dụng Mobile dạy học và thi trực tuyến có hỗ trợ thanh toán Paypal
+### Các công nghệ chính:
+ <img src="https://img.stackshare.io/service/11331/asp.net-core.png"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPw7e1oXI5SnkykpcQkyJR2ymbSMs0XS4dDuZojsvzV0rNP6k6nLkrLpMD0PMXVltIMxk&usqp=CAU"><img src="https://blog.sqlauthority.com/wp-content/uploads/2008/12/ssms.png">
 ### Môi trường cần cài đặt 
  - [Npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
  - [NodeJS](https://nodejs.org/en/)
@@ -17,4 +19,5 @@
     "DatabaseConnection": "Server=(localhost);Database=CourseDB3;Trusted_Connection=True;MultipleActiveResultSets=True;"
   }```
  với Server là tên Server name tại SSMS, thực hiện lệnh ```EntityFrameworkCore\Add-Migration``` và ```EntityFrameworkCore\Update-Database``` tại cửa sổ Package Manager Console để cập nhật cơ sở dữ liệu.
+## Em xin cảm ơn trung tâm CyberSoft, đặc biệt là anh Đạt đã nhiệt tình hỗ trợ lúc em gặp khó khăn. Đây là project em làm từ không biết gì đến khi có thành phẩm và đã bảo vệ thành công ở trường( mục tiêu ban đầu khi đăng ký học ở trung tâm)
  
